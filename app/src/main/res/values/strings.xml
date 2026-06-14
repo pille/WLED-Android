@@ -74,7 +74,7 @@
     <string name="done">Done</string>
     <string name="update_completed">Update Completed!</string>
     <string name="are_you_sure">Are you sure?</string>
-    <string name="device_update_disclaimer_part1">You are about to install a new version of WLED on your device. If you had a custom version installed previously, you might lose some functionalities (for example, if you had some usermods enabled, they might not work anymore).</string>
+    <string name="device_update_disclaimer_part1">You are about to install a new version of WLED on your device. If you had a custom version installed previously, you might lose some functionaliti[...]</string>
     <string name="device_update_disclaimer_part2">If someone installed this device for you, you should maybe ask them if it is alright to update the device to a new version.</string>
     <string name="device_update_disclaimer_part3">WLED is not responsible if something goes wrong due to an update.</string>
     <string name="install_update">Install Update</string>
@@ -138,5 +138,12 @@
     <string name="changelog_title">What\'s new</string>
     <string name="changelog_dismiss_button">Awesome</string>
     <string name="show_changelog">Show changelog</string>
+
+    <!-- Routed Network Discovery -->
+    <string name="discover_routed_network">Discover Routed Network Devices</string>
+    <string name="discovering_routed_network">Discovering…</string>
+    <string name="no_known_devices">No known devices to query</string>
+    <string name="discovery_complete">Discovery complete</string>
+    <string name="discovery_results">Discovered: %1$d, Added: %2$d</string>
 
 </resources>
